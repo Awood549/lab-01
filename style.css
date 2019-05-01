@@ -1,3 +1,27 @@
-*{
-    border:1px red dotted;
+#a{
+    background-color: red;
+}
+#b{
+    background-color: blueviolet;
+}
+#c{
+    background-color: green;
+}
+#d{
+    background-color: yellow;
+}
+#e{
+    background-color: pink;
+}
+#f{
+    background-color: purple;
+}
+#g{
+    background-color: peru;
+}
+#h{
+    background-color: darkkhaki;
+}
+#i{
+    background-color: lightcoral;
 }
